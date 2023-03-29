@@ -1,0 +1,4 @@
+model,class1,class2,class3,average
+2d,0.7957,0.5985,0.7826,0.7256
+3d_fullres,0.8101,0.6199,0.7934,0.7411
+ensemble_2d__nnUNetTrainerV2__nnUNetPlansv2.1--3d_fullres__nnUNetTrainerV2__nnUNetPlansv2.1,0.8106,0.6179,0.7926,0.7404
